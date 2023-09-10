@@ -1,0 +1,15 @@
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\bin\Debug\net8.0\CSV-Read.exe
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\bin\Debug\net8.0\CSV-Read.deps.json
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\bin\Debug\net8.0\CSV-Read.runtimeconfig.json
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\bin\Debug\net8.0\CSV-Read.dll
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\bin\Debug\net8.0\CSV-Read.pdb
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\obj\Debug\net8.0\CSV-Read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\obj\Debug\net8.0\CSV-Read.AssemblyInfoInputs.cache
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\obj\Debug\net8.0\CSV-Read.AssemblyInfo.cs
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\obj\Debug\net8.0\CSV-Read.csproj.CoreCompileInputs.cache
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\obj\Debug\net8.0\CSV-Read.sourcelink.json
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\obj\Debug\net8.0\CSV-Read.dll
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\obj\Debug\net8.0\refint\CSV-Read.dll
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\obj\Debug\net8.0\CSV-Read.pdb
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\obj\Debug\net8.0\CSV-Read.genruntimeconfig.cache
+C:\Users\elliot alderson\Documents\GitHub\CSV-Read\obj\Debug\net8.0\ref\CSV-Read.dll
